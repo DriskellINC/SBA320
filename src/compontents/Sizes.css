@@ -1,0 +1,22 @@
+.sizes-container {
+    margin-right: 20px;
+  }
+  
+  .sizes h2 {
+    margin-bottom: 10px;
+  }
+  
+  .sizes button {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+  }
+  
+  .sizes button:hover {
+    background-color: #ddd;
+  }
+  
