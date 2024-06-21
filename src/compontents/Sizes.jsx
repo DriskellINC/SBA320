@@ -20,3 +20,5 @@ const Sizes = () => {
         </div>
       );
     };
+
+    export default Sizes;
